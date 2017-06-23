@@ -1,4 +1,5 @@
 # MatricesAddition
 
-main.cpp - add two matrices in trivial way
+main.cpp - add two matrices in a simple way
+
 final.cpp - add two matrices using threads

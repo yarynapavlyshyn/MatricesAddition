@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/cs.ucu.edu.ua/CLionProjects/MatrixAddition/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+thread
+C:/Users/cs.ucu.edu.ua/CLionProjects/MatrixAddition/thread
+
